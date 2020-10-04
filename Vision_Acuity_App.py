@@ -1,5 +1,6 @@
-from snellen_chart import * #tkinter file
+from snellen_chart import * 
 from Snellen_Chart_Check import *
+from optics import * #tkinter file
 
 VISUAL_ACUITY = {1 : '20/200', 2 : '20/100', 3 : '20/70', 4 : '20/50', 5 : '20/40', 6 : '20/30', 7 : '20/25', 8 : '20/20'}
 
@@ -25,7 +26,7 @@ def VisionAcuityApp():
 			break
 
 		for letter_index in range(row_n): #get letter index in row_n
-			user_input = snellen_chart.forward(row_n) #returns user input
+			user_input = forward(row_n) #returns user input
 
 			if not check_row(row_n - 1, user_input): #boolean if user got correct entry
 				acuity_level = row_n - 1
