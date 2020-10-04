@@ -9,8 +9,8 @@ A Tkinter app that helps user determine their visual acuity.
 
 
 ##**LocalSetup:**
-	Install All Dependencies
-	pip3 install -r requirements.txt
+	-Install All Dependencies
+	-pip3 install -r requirements.txt
 
 
 ##**Run the File:**
@@ -18,5 +18,5 @@ A Tkinter app that helps user determine their visual acuity.
 
 
 ##**ToDo:**
-	Troubleshooting
-	Incorporation of Google Cloud Vision API
+	-Troubleshooting
+	-Incorporation of Google Cloud Vision API
