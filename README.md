@@ -14,7 +14,7 @@ A Tkinter app that helps user determine their visual acuity.
 
 
 ## **Run the File:**
-	python3 app.py
+	python3 Vision_Acuity_App.py
 
 
 ## **ToDo:**
