@@ -1,22 +1,22 @@
 # Vi2i0n
-The Visual Acuity App
+##The Visual Acuity App
 
 A Tkinter app that helps user determine their visual acuity.
 
 
-Technologies
+##Technologies:
 	Tkinter
 
 
-LocalSetup
+##LocalSetup:
 	Install All Dependencies
 	pip3 install -r requirements.txt
 
 
-Run the File
+##Run the File:
 	python3 app.py
 
 
-ToDo
+##ToDo:
 	Troubleshooting
 	Incorporation of Google Cloud Vision API
