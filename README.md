@@ -6,6 +6,7 @@ A Tkinter app that helps user determine their visual acuity.
 
 ## **Technologies:**
 	Tkinter
+	opencv2
 
 
 ## **LocalSetup:**
@@ -20,3 +21,4 @@ A Tkinter app that helps user determine their visual acuity.
 ## **ToDo:**
 	-Troubleshooting
 	-Incorporation of Google Cloud Vision API
+	-Computer Visionto estimate user distance from phone
